@@ -19,6 +19,6 @@ public class EmployeeController {
 	    	 throw new InvalidException("empId can not be null");
 	     }
 	     System.out.println(employee);
-	     return "data saved successfully";
+	     return "data saved successfull..";
 	}
 }
